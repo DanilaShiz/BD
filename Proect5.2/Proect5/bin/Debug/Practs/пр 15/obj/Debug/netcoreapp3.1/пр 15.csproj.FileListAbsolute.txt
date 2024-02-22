@@ -1,0 +1,16 @@
+C:\Users\Санёк\Desktop\Практосы\пр 15\bin\Debug\netcoreapp3.1\пр 15.exe
+C:\Users\Санёк\Desktop\Практосы\пр 15\bin\Debug\netcoreapp3.1\пр 15.deps.json
+C:\Users\Санёк\Desktop\Практосы\пр 15\bin\Debug\netcoreapp3.1\пр 15.runtimeconfig.json
+C:\Users\Санёк\Desktop\Практосы\пр 15\bin\Debug\netcoreapp3.1\пр 15.runtimeconfig.dev.json
+C:\Users\Санёк\Desktop\Практосы\пр 15\bin\Debug\netcoreapp3.1\пр 15.dll
+C:\Users\Санёк\Desktop\Практосы\пр 15\bin\Debug\netcoreapp3.1\пр 15.pdb
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.csproj.AssemblyReference.cache
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр_15.Form1.resources
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.csproj.GenerateResource.cache
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.AssemblyInfoInputs.cache
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.AssemblyInfo.cs
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.csproj.CoreCompileInputs.cache
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.dll
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.pdb
+C:\Users\Санёк\Desktop\Практосы\пр 15\obj\Debug\netcoreapp3.1\пр 15.genruntimeconfig.cache

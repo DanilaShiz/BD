@@ -1,0 +1,9 @@
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\obj\Debug\CALCULATORv2.csprojAssemblyReference.cache
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\obj\Debug\CALCULATORv2.Form1.resources
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\obj\Debug\CALCULATORv2.Properties.Resources.resources
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\obj\Debug\CALCULATORv2.csproj.GenerateResource.cache
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\bin\Debug\CALCULATORv2.exe.config
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\bin\Debug\CALCULATORv2.exe
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\bin\Debug\CALCULATORv2.pdb
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\obj\Debug\CALCULATORv2.exe
+Z:\Группы\Черновики\ОАП\1ИСП11-21\Антонов Данила\программы\CALCULATORv2\obj\Debug\CALCULATORv2.pdb

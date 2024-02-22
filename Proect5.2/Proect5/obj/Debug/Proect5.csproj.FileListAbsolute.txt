@@ -1,0 +1,37 @@
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\bin\Debug\Proect5.exe.config
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\bin\Debug\Proect5.exe
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\bin\Debug\Proect5.pdb
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.csproj.AssemblyReference.cache
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.Form1.resources
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.Properties.Resources.resources
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.csproj.GenerateResource.cache
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.csproj.CoreCompileInputs.cache
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.exe
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.pdb
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.Login.resources
+C:\Users\Валерьянка\Desktop\Программы\Proect5\Proect5\obj\Debug\Proect5.Register.resources
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\bin\Debug\Proect5.exe.config
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\bin\Debug\Proect5.exe
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\bin\Debug\Proect5.pdb
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Form1.resources
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Login.resources
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Properties.Resources.resources
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Register.resources
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.exe
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.pdb
+C:\Users\user\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.csprojAssemblyReference.cache
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\bin\Debug\Proect5.exe.config
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\bin\Debug\Proect5.exe
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\bin\Debug\Proect5.pdb
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.csproj.AssemblyReference.cache
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Form1.resources
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Login.resources
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Properties.Resources.resources
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.Register.resources
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.csproj.GenerateResource.cache
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.csproj.CoreCompileInputs.cache
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.exe
+C:\Users\Валерьянка\Desktop\ФОРМА СДС\Proect5.2\Proect5\obj\Debug\Proect5.pdb

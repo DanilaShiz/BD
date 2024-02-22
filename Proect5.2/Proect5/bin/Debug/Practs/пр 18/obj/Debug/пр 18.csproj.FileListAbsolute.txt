@@ -1,0 +1,20 @@
+C:\Users\Санёк\Desktop\Практосы\пр 18\bin\Debug\пр 18.exe.config
+C:\Users\Санёк\Desktop\Практосы\пр 18\bin\Debug\пр 18.exe
+C:\Users\Санёк\Desktop\Практосы\пр 18\bin\Debug\пр 18.pdb
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр 18.csproj.AssemblyReference.cache
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр_18.Form1.resources
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр_18.Properties.Resources.resources
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр 18.csproj.GenerateResource.cache
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр 18.csproj.CoreCompileInputs.cache
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр 18.exe
+C:\Users\Санёк\Desktop\Практосы\пр 18\obj\Debug\пр 18.pdb
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\bin\Debug\пр 18.exe.config
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\bin\Debug\пр 18.exe
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\bin\Debug\пр 18.pdb
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр 18.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр_18.Form1.resources
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр_18.Properties.Resources.resources
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр 18.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр 18.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр 18.exe
+C:\Users\user\Desktop\Савицкий и Щунченков 1-ИСП11-21\Proect5\Proect5\bin\Debug\Practs\пр 18\obj\Debug\пр 18.pdb

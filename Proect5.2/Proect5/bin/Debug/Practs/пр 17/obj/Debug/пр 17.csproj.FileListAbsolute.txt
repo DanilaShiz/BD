@@ -1,0 +1,10 @@
+C:\Users\Санёк\Desktop\Практосы\пр 17\bin\Debug\пр 17.exe.config
+C:\Users\Санёк\Desktop\Практосы\пр 17\bin\Debug\пр 17.exe
+C:\Users\Санёк\Desktop\Практосы\пр 17\bin\Debug\пр 17.pdb
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр 17.csproj.AssemblyReference.cache
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр_17.Form1.resources
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр_17.Properties.Resources.resources
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр 17.csproj.GenerateResource.cache
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр 17.csproj.CoreCompileInputs.cache
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр 17.exe
+C:\Users\Санёк\Desktop\Практосы\пр 17\obj\Debug\пр 17.pdb

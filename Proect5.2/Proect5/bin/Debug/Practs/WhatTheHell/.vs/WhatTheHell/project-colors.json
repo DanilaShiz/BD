@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63acb199-7c09-4778-8bb5-8bdb157cee49": {
+      "ProjectGuid": "63acb199-7c09-4778-8bb5-8bdb157cee49",
+      "DisplayName": "WhatTheFuck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
